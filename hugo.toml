@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/adrianhills0/my-site/'
-languageCode = 'en-us'
+baseURL = 'https://adrianhills0.github.io/my-site/'
+locale = 'en-us'
 title = 'Adrians Site'
 theme = 'ananke'

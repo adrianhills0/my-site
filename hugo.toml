@@ -1,0 +1,4 @@
+baseURL = 'https://YOUR-USERNAME.github.io/my-site/'https://github.com/adrianhills0/my-site/'
+languageCode = 'en-us'
+title = 'Adrians Site'
+theme = 'ananke'
